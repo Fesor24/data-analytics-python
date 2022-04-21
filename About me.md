@@ -8,6 +8,6 @@ To improve on my knowledge and appraise myself with the whole concept of Data An
 
 Upon completion of the certificate courses, I took a number of courses on Statistics for data analysis, SQL, Python and Tableau for Data visualization to improve on my technical skills and I am very confident in my ability to use these tools.
 
-I am seeking an entry level position in a company/organization as a junior data analyst where I can enhance and improve on the skills I already have and be given a platform for personal and professional growth with advancement opportunities.
+I am seeking an entry level position in a company/organization as a junior data analyst where I can enhance and improve on my skills and be given a platform for personal and professional growth with advancement opportunities.
 
 Thank you.
