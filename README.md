@@ -1,2 +1,2 @@
 # Python-Projects
-A collection of my python projects
+A collection of my python scripts for data analytics
